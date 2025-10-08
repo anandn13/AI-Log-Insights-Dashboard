@@ -1,0 +1,11 @@
+{
+  "attributes": {
+    "title": "AI Logs Overview (example)",
+    "description": "Starter dashboard. Customize in Kibana and re-export.",
+    "panelsJSON": "[]",
+    "version": 1
+  },
+  "type": "dashboard"
+}
+
+

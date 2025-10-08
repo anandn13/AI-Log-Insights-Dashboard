@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+*.sqlite
+
+# Streamlit
+.streamlit/
+
+# Docker
+*.log
+
+
